@@ -1,4 +1,20 @@
-# OCSF Mediator Example
+SCHOOL ONLINE TEST SYSTEM -
+
+As part of a team project in my Software Engineering course, I was actively
+involved in developing an online High School Test System using a server-client architecture.
+We utilized Java, JavaFX GUI, SQL, and Git.
+Our team of 5 members was responsible for designing, implementing, and testing the system.
+This experience enhanced my programming skills in Java and provided handson experience with server-client communication and data management using SQL.
+
+<img width="583" alt="Screen Shot 2023-08-03 at 17 15 28" src="https://github.com/matanpolik/online_tests_system/assets/98277084/a5655487-2e90-473b-8000-d1cabd573590">
+
+<img width="567" alt="Screen Shot 2023-08-03 at 17 16 03" src="https://github.com/matanpolik/online_tests_system/assets/98277084/94f6ccf1-c306-4a0b-9c14-245669e76c0b">
+
+<img width="656" alt="Screen Shot 2023-08-03 at 17 16 27" src="https://github.com/matanpolik/online_tests_system/assets/98277084/3a7edaab-ed6a-449c-ba62-a14b1931d46f">
+
+
+
+
 
 ## Structure
 Pay attention to the three modules:
