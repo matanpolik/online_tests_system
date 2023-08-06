@@ -24,10 +24,6 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
 
-/**
- * Hello world!
- *
- */
 public class App extends Application {
 
     private static SimpleServer server;
