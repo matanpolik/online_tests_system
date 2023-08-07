@@ -1,5 +1,6 @@
 SCHOOL ONLINE TEST SYSTEM -
 
+The School Test System is a computerized information system designed for managing exams in a high school.
 Its main objectives are to centralize all exam-related activities, enhance efficiency, and improve the reliability of exam processing.
 The system aims to achieve the following goals:
 1) Create exams at two levels: (a) Manage a question bank for various subjects, and (b) Generate exams from the question bank.
