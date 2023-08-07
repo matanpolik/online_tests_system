@@ -1,10 +1,13 @@
 SCHOOL ONLINE TEST SYSTEM -
 
-As part of a team project in my Software Engineering course, I was actively
-involved in developing an online High School Test System using a server-client architecture.
-We utilized Java, JavaFX GUI, SQL, and Git.
-Our team of 5 members was responsible for designing, implementing, and testing the system.
-This experience enhanced my programming skills in Java and provided handson experience with server-client communication and data management using SQL.
+Its main objectives are to centralize all exam-related activities, enhance efficiency, and improve the reliability of exam processing.
+The system aims to achieve the following goals:
+1) Create exams at two levels: (a) Manage a question bank for various subjects, and (b) Generate exams from the question bank.
+2) Facilitate exam administration.
+3) Conduct exam grading and record scores.
+4) Data processing, analysis, and presentation, including generating various statistics on exams, scores, and student performance.
+
+We utilized Java (OCSF server-clent framework, EVENTBUS), JavaFX GUI, SQL, and Git.
 
 <img width="583" alt="Screen Shot 2023-08-03 at 17 15 28" src="https://github.com/matanpolik/online_tests_system/assets/98277084/a5655487-2e90-473b-8000-d1cabd573590">
 
